@@ -17,5 +17,11 @@ A powerful Streamlit-based tool for government and legal departments to **automa
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-git clone https://github.com/kunaljoshi-creator/Smart_Land_Project.git
-cd Smart_Land_Project
+- git clone https://github.com/kunaljoshi-creator/Smart_Land_Project.git
+- cd Smart_Land_Project
+
+### 🚀 Run Locally
+
+- pip install -r requirements.txt
+- streamlit run smart_land.py
+
